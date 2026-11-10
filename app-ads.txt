@@ -1,0 +1,1 @@
+# FSJ Studio app-ads.txt - ad network lines will be added when ad accounts are set up
